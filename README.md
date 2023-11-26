@@ -8,4 +8,8 @@ For the case study RQ1, medical dataset used is from https://www.kaggle.com/data
 Images used are uploaded in the files. 
 <br>
 Presentation pdf is also uploaded for better explainations. 
+<br>
+I have uploaded a detailed video explaining my project here on youtube: https://youtu.be/ZJfiiypEYdc
+<br>
+Great learning! 
 
